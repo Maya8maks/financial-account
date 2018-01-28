@@ -1,0 +1,13 @@
+{
+    "name": "maya/lesson7.local",
+    "type": "project",
+    "authors": [
+        {
+            "name": "maya7maks",
+            "email": "maya7maks@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
